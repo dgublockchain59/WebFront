@@ -28,8 +28,8 @@ npm run build --report
 ```
 
 ### reference List
-set environment - https://firstblog912.tistory.com/39
-set Atom environment - https://blog.hanumoka.net/2018/08/21/vue-20180821-vue-develoment-enviroments-at-windows10/
-todo list tutorial - https://blog.storyg.co/vue-js-posts/todos-tutorial
+set environment - https://firstblog912.tistory.com/39<br>
+set Atom environment - https://blog.hanumoka.net/2018/08/21/vue-20180821-vue-develoment-enviroments-at-windows10/<br>
+todo list tutorial - https://blog.storyg.co/vue-js-posts/todos-tutorial<br>
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
